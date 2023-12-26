@@ -1,0 +1,55 @@
+body {
+    font-family:'Karla', sans-serif ;
+    font-weight: 700;
+    font-size: 16px;
+}
+.text-primary {
+    font-weight: 700;
+    font-family: inherit;
+    color: hsl(179, 62%, 43%) !important;
+}
+.bg-primary {
+    background-color: hsl(179, 51%, 40%) !important;
+
+}
+.bg-info {
+    background-color: hsl(179, 42%, 53%) !important;
+}
+.text-success {
+    font-weight: 700;
+    font-family: inherit;
+    color: hsl(71, 73%, 54%) !important;
+}
+.btn-success {
+    background-color: hsl(71, 73%, 54%) !important;
+}
+.text-secondary {
+    font-family: inherit;
+    font-weight: 400;
+    color:hsl(218, 22%, 67%) !important;
+    font-size: 15px;
+}
+.text-light {
+    color: hsl(179, 83%, 80%) !important;
+}
+.text-info {
+    font-family: inherit;
+    font-weight: 400;
+    color: hsl(179, 69%, 75%) !important;
+    font-size: 15px;
+}
+.text-light {
+    font-family: inherit;
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+    font-size: 14px;
+    color: hsl(204, 43%, 93%) !important;
+}
+.text-warning {
+    font-weight: 600;
+    font-size: 15px;
+    color: hsl(179, 62%, 43%) !important;
+}
